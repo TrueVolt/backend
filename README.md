@@ -1,13 +1,13 @@
 <div align="center">
 <h1>
-  Revolt Backend
+  TrueVolt Backend
   
-  [![Stars](https://img.shields.io/github/stars/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/stargazers)
-  [![Forks](https://img.shields.io/github/forks/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/network/members)
-  [![Pull Requests](https://img.shields.io/github/issues-pr/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/pulls)
-  [![Issues](https://img.shields.io/github/issues/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/issues)
-  [![Contributors](https://img.shields.io/github/contributors/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/graphs/contributors)
-  [![License](https://img.shields.io/github/license/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/revoltchat/backend/blob/main/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/stargazers)
+  [![Forks](https://img.shields.io/github/forks/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/network/members)
+  [![Pull Requests](https://img.shields.io/github/issues-pr/revoltchat/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/pulls)
+  [![Issues](https://img.shields.io/github/issues/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/issues)
+  [![Contributors](https://img.shields.io/github/contributors/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/graphs/contributors)
+  [![License](https://img.shields.io/github/license/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/blob/main/LICENSE)
 </h1>
 The services and libraries that power the Revolt service.<br/>
 <br/>
@@ -41,7 +41,7 @@ Rust 1.76 or higher.
 
 ## Development Guide
 
-Before contributing, make yourself familiar with [our contribution guidelines](https://developers.revolt.chat/contrib.html) and the [technical documentation for this project](https://revoltchat.github.io/backend/).
+Before contributing, make yourself familiar with [our contribution guidelines](https://TrueVolt-developers.ErrorOliver.lol/contrib.html) and the [technical documentation for this project](https://TrueVolt.github.io/backend/).
 
 Before getting started, you'll want to install:
 
@@ -71,8 +71,8 @@ As a heads-up, the development environment uses the following ports:
 Now you can clone and build the project:
 
 ```bash
-git clone https://github.com/revoltchat/backend revolt-backend
-cd revolt-backend
+git clone https://github.com/TrueVolt/backend truevolt-backend
+cd truevolt-backend
 cargo build
 ```
 
@@ -196,7 +196,7 @@ Tag and push a new release by running:
 just release
 ```
 
-If you have bumped the crate versions, proceed to [GitHub releases](https://github.com/revoltchat/backend/releases/new) to create a changelog.
+If you have bumped the crate versions, proceed to [GitHub releases](https://github.com/TrueVolt/backend/releases/new) to create a changelog.
 
 ## Testing
 
