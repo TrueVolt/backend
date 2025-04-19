@@ -15,7 +15,7 @@ host = "127.0.0.1"
 [hosts]
 # Web locations of various services
 # Defaults assume all services are reverse-proxied
-# See https://github.com/revoltchat/self-hosted/blob/master/Caddyfile
+# See https://github.com/TrueVolt/self-hosted/blob/master/Caddyfile
 #
 # Remember to change these to https/wss where appropriate in production!
 app = "http://local.revolt.chat:14701"
@@ -34,8 +34,8 @@ voso_legacy_ws = ""
 host = "localhost"
 username = "smtp"
 password = "smtp"
-from_address = "development@revolt.chat"
-reply_to = "support@revolt.chat"
+from_address = "development@truevolt.erroroliver.lol"
+reply_to = "support@truevolt.erroroliver.lol"
 port = 14025
 use_tls = false
 
