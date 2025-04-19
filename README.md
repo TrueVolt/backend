@@ -9,7 +9,7 @@
   [![Contributors](https://img.shields.io/github/contributors/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/graphs/contributors)
   [![License](https://img.shields.io/github/license/TrueVolt/backend?style=flat-square&logoColor=white)](https://github.com/TrueVolt/backend/blob/main/LICENSE)
 </h1>
-The services and libraries that power the Revolt service.<br/>
+The services and libraries that power the TrueVolt service.<br/>
 <br/>
 
 | Crate              | Path                                               | Description                              |                                                                                                                                                                                                                                                                                                           |
